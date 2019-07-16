@@ -1,8 +1,8 @@
 ![Python Banner](/images/python-banner.jpg)
-# Applied Database Project (MongoDB and Python)
+# Applied Database Project (MongoDB, SQL and Python)
 
 This repository contains my solutions to the Problem Set for the module Applied Databases 2019 at GMIT.
-This project is looking at using MongDB and Python on a given database.
+This project is looking at using MongDB, SQL and Python on a given database.
 
 ## How to Download the Repository
 1. On GitHub, navigate to the main page of the repository.
