@@ -13,17 +13,15 @@ This project is looking at using MongDB and Python on a given database.
 6. Type git clone, and then paste the URL you copied in Step 2.
 7. Press Enter. Your local clone will be created.
 
-**How to run**
-Navigate to the cmd line where file is stored and type python DBProject.py and the menu will begin
-
 ## How to Run the Code
 1. Make sure you have python v. 3.7 installed. This can be downloaded here from the [anaconda website.](https://www.anaconda.com/distribution/)
 2. Run command line.
 3. Navigate to where you have the files saved in your directory.
 4. Type python followed by the DBProject.py to run the program and the menu will begin
 
-**What each file contains**
+## What each file contains
 1. DBProject contains the main method and is where the program should be started from
 2. Input.py contains all the input validation functions and the menu text function
 3. SQL.py contains all the functions connecting to the world SQL database
 4. Mongo.py contains all the functions connecting to the mongoDB queries (note my database and collection are both named mongo)
+5. res folder contains databases used in this project
